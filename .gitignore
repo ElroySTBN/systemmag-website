@@ -1,0 +1,43 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Images et médias lourds
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.tif
+*.tiff
+*.psd
+*.ai
+*.pdf
+*.mp4
+*.mov
+
+# Fichiers Office
+*.doc
+*.docx
+*.xls
+*.xlsx
+*.ppt
+*.pptx
+*.rtf
+
+# Node
+node_modules/
+.env
+.env.local
+dist/
+.astro/
+
+# Ancien site web
+ancien site web systemmag/
+
+# Dossiers photos lourds
+Photos NASA/
+ressources_systemmag/
+
+# Temp
+*.tmp
+~$*
